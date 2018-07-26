@@ -1,6 +1,6 @@
 # [Lab Quasar](https://github.com/walisonmoreira/lab-quasar)
 
-Experimentos com o [Quasar Framework](https://quasar-framework.org).
+Experimentos com [Quasar Framework](https://quasar-framework.org).
 
 ## Quasar Cli
 
